@@ -41,3 +41,10 @@ EasyMed is built with a focus on **usability**, **performance**, and **accessibi
 ```bash
 git clone https://github.com/yourusername/easymed-healthcare-website.git
 cd easymed-healthcare-website
+
+📸 Screenshots
+Project Banner
+
+Home Page
+
+Booking Page
