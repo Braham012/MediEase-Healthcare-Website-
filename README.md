@@ -1,26 +1,25 @@
 # EasyMed Healthcare Website
 
-**EasyMed Healthcare Website** is a modern, responsive web platform designed to improve patient access to healthcare services.  
-It enables users to learn about available medical services, view professional doctor profiles, and seamlessly schedule appointments online.
+**EasyMed Healthcare Website** is a modern, responsive web platform designed to enhance patient engagement and streamline access to healthcare services.  
+It enables visitors to explore available medical services, view doctor profiles, and conveniently book appointments online.
 
 ---
 
 ## 📌 Overview
 
-The platform is built with a focus on **usability**, **speed**, and **accessibility**, providing an intuitive interface for both patients and healthcare providers.  
-Its responsive design ensures optimal performance across desktops, tablets, and mobile devices.
+EasyMed is built with a focus on **usability**, **performance**, and **accessibility**, ensuring a smooth experience across desktops, tablets, and mobile devices.
 
 ---
 
 ## ✨ Features
 
-- **Responsive & Mobile-Optimized** – Consistent experience on all devices.
-- **Service Directory** – Organized overview of healthcare services offered.
-- **About Us Section** – Highlights the organization's mission and core values.
-- **Doctor Profiles** – Professional bios with social media integration.
-- **Appointment Booking Form** – Simple and functional booking process.
+- **Responsive & Mobile-Optimized** – Consistent performance on all devices.
+- **Services Overview** – Clear presentation of available healthcare services.
+- **About Us Section** – Highlights mission and organizational values.
+- **Doctor Profiles** – Professional bios with integrated social media links.
+- **Online Appointment Booking** – Functional booking form.
 - **Interactive Navigation** – Mobile-friendly hamburger menu.
-- **Footer with Quick Links** – Includes services, contacts, and social channels.
+- **Footer with Quick Links** – Services, contact info, and social channels.
 
 ---
 
@@ -28,33 +27,15 @@ Its responsive design ensures optimal performance across desktops, tablets, and 
 
 | Technology   | Purpose                                    |
 |--------------|--------------------------------------------|
-| HTML5        | Structure and content layout               |
+| HTML5        | Structure and semantic markup              |
 | CSS3         | Styling, layout, and responsiveness        |
 | JavaScript   | UI interactivity and dynamic elements      |
-| Font Awesome | Icon library                               |
-| Google Fonts | Professional typography                    |
 | PHP          | Backend appointment form handling          |
+| SQL          | Database management for appointment data   |
 
 ---
 
-## 📂 Project Structure
-
-EasyMed-Healthcare-Website/
-│
-├── index.html # Main landing page
-├── book.html # Appointment booking page
-├── style.css # Core styling and responsive design
-├── script.js # Navigation and UI interactions
-├── action.php # PHP backend for appointment form
-└── images/ # Images and graphical assets
-
-yaml
-Copy
-Edit
-
----
-
-## 🚀 Getting Started
+## 🚀 How to Run
 
 ### 1. Clone the Repository
 ```bash
