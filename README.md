@@ -37,14 +37,19 @@ EasyMed is built with a focus on **usability**, **performance**, and **accessibi
 
 ## 🚀 How to Run
 
-### 1. Clone the Repository
+1. **Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/easymed-healthcare-website.git
-cd easymed-healthcare-website ```
+cd easymed-healthcare-website
+Open index.html in your web browser.
 
-# 📸 Screenshots
-Project Banner
+## 📸 Screenshots
+Below are preview images of the EasyMed Healthcare Website.
+Save your screenshots in the images/ folder with the same filenames for them to appear here.
 
-Home Page
+🖥 Home Page
 
-Booking Page
+🗓 Booking Page
+
+📢 Project Banner
+
