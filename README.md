@@ -40,9 +40,9 @@ EasyMed is built with a focus on **usability**, **performance**, and **accessibi
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/easymed-healthcare-website.git
-cd easymed-healthcare-website
+cd easymed-healthcare-website ```
 
-## 📸 Screenshots
+# 📸 Screenshots
 Project Banner
 
 Home Page
