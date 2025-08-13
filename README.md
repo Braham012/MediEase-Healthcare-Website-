@@ -1,13 +1,13 @@
-# Mediease Healthcare Website
+# MediEase Healthcare Website
 
-**Mediease Healthcare Website** is a modern, responsive web platform designed to enhance patient engagement and streamline access to healthcare services.  
+**MediEase Healthcare Website** is a modern, responsive web platform designed to enhance patient engagement and streamline access to healthcare services.  
 It enables visitors to explore available medical services, view doctor profiles, and conveniently book appointments online.
 
 ---
 
 ## 📌 Overview
 
-Mediease is built with a focus on **usability**, **performance**, and **accessibility**, ensuring a smooth experience across desktops, tablets, and mobile devices.
+MediEase is built with a focus on **usability**, **performance**, and **accessibility**, ensuring a smooth experience across desktops, tablets, and mobile devices.
 
 ---
 
