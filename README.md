@@ -48,15 +48,15 @@ Below are preview images of the EasyMed Healthcare Website.
 
 ### Home Page
 ![homepage](https://github.com/Braham012/EasyMed-Healthcare-Website-/blob/main/demo-screenshot/Screenshot%202025-08-13%20200318.png?raw=true)
-###About Us Page
+### About Us Page
 ![aboutus](https://github.com/Braham012/EasyMed-Healthcare-Website-/blob/main/demo-screenshot/Screenshot%202025-08-13%20200350.png?raw=true)
 ### Services Page
 ![services](https://github.com/Braham012/EasyMed-Healthcare-Website-/blob/main/demo-screenshot/Screenshot%202025-08-13%20200335.png?raw=true)
-###Doctors Page
+### Doctors Page
 ![doctorinfo](https://github.com/Braham012/EasyMed-Healthcare-Website-/blob/main/demo-screenshot/Screenshot%202025-08-13%20200404.png?raw=true)
 ### Booking Page
 ![appointmentbooking](https://github.com/Braham012/EasyMed-Healthcare-Website-/blob/main/demo-screenshot/Screenshot%202025-08-13%20200500.png?raw=true)
-###Footer View
+### Footer View
 ![Footersection](https://github.com/Braham012/EasyMed-Healthcare-Website-/blob/main/demo-screenshot/Screenshot%202025-08-13%20200422.png?raw=true)
 
 
