@@ -1,4 +1,4 @@
-<img width="1739" height="908" alt="image" src="https://github.com/user-attachments/assets/059821b1-d5a0-44e9-85af-03f16167d9fd" /># EasyMed Healthcare Website
+# EasyMed Healthcare Website
 
 **EasyMed Healthcare Website** is a modern, responsive web platform designed to enhance patient engagement and streamline access to healthcare services.  
 It enables visitors to explore available medical services, view doctor profiles, and conveniently book appointments online.
