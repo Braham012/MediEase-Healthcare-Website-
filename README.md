@@ -31,7 +31,7 @@ MediEase is built with a focus on **usability**, **performance**, and **accessib
 | CSS3         | Styling, layout, and responsiveness        |
 | JavaScript   | UI interactivity and dynamic elements      |
 | PHP          | Backend appointment form handling          |
-| SQL          | Database management for appointment data   |
+| MYSQL        | Database management for appointment data   |
 
 ---
 
