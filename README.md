@@ -43,8 +43,8 @@ git clone https://github.com/yourusername/easymed-healthcare-website.git
 cd easymed-healthcare-website
 ```
 ##📸 Screenshots
-Below are preview images of the EasyMed Healthcare Website.
-Save your screenshots in the images/ folder with the same filenames for them to appear here.
+
+#Below are preview images of the EasyMed Healthcare Website.
 
 🖥 Home Page
 
