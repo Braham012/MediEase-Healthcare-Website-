@@ -44,9 +44,10 @@ cd easymed-healthcare-website
 ```
 ## 📸 Screenshots
 
-#Below are preview images of the EasyMed Healthcare Website.
+Below are preview images of the EasyMed Healthcare Website.
 
 🖥 Home Page
+![homepage](https://github.com/Braham012/EasyMed-Healthcare-Website-/blob/main/demo-screenshot/Screenshot%202025-08-13%20200318.png?raw=true)
 
 🗓 Booking Page
 
